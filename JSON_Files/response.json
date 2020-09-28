@@ -1,0 +1,2797 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "section": "Arts",
+  "last_updated": "2020-09-28T16:23:19-04:00",
+  "num_results": 34,
+  "results": [
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Donald Trump Was the Real Winner of \u2018The Apprentice\u2019",
+      "abstract": "The reality show temporarily revived his business fortunes by creating the illusion that he was already doing great.",
+      "url": "https://www.nytimes.com/2020/09/28/arts/television/trump-taxes-apprentice.html",
+      "uri": "nyt://article/1a9c5860-31b1-5642-af33-2201b4d52980",
+      "byline": "By James Poniewozik",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T15:50:46-04:00",
+      "created_date": "2020-09-28T15:50:46-04:00",
+      "published_date": "2020-09-28T15:50:46-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Television",
+        "The Apprentice (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28apprentice1/merlin_28200264_c16bffcc-782d-4d76-8b2e-fe487768da1c-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1361,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tax data reveals that \u201cThe Apprentice,\u201d the reality show based on the idea that Donald Trump was wealthy and successful, was for years his most reliable source of income.",
+          "copyright": "Ali Goldstein/NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28apprentice1/28apprentice1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tax data reveals that \u201cThe Apprentice,\u201d the reality show based on the idea that Donald Trump was wealthy and successful, was for years his most reliable source of income.",
+          "copyright": "Ali Goldstein/NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28apprentice1/28apprentice1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tax data reveals that \u201cThe Apprentice,\u201d the reality show based on the idea that Donald Trump was wealthy and successful, was for years his most reliable source of income.",
+          "copyright": "Ali Goldstein/NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28apprentice1/28apprentice1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tax data reveals that \u201cThe Apprentice,\u201d the reality show based on the idea that Donald Trump was wealthy and successful, was for years his most reliable source of income.",
+          "copyright": "Ali Goldstein/NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28apprentice1/merlin_28200264_c16bffcc-782d-4d76-8b2e-fe487768da1c-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tax data reveals that \u201cThe Apprentice,\u201d the reality show based on the idea that Donald Trump was wealthy and successful, was for years his most reliable source of income.",
+          "copyright": "Ali Goldstein/NBC"
+        }
+      ],
+      "short_url": "https://nyti.ms/3mSYors"
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "Amid the Monument Wars, a Rally for \u2018More History\u2019",
+      "abstract": "Historians recently gathered at Civil War sites across the country in an effort to highlight distortions, omissions and the erasure of Black contributions.",
+      "url": "https://www.nytimes.com/2020/09/28/arts/civil-war-monuments.html",
+      "uri": "nyt://article/a6929759-29bb-5c58-a72e-fe764047533b",
+      "byline": "By Jennifer Schuessler",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T17:05:19-04:00",
+      "created_date": "2020-09-28T16:22:26-04:00",
+      "published_date": "2020-09-28T16:22:26-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Monuments and Memorials (Structures)",
+        "Black People",
+        "Civil War (US) (1861-65)",
+        "Slavery (Historical)",
+        "Historic Buildings and Sites"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Chicago (Ill)",
+        "Gettysburg (Pa)",
+        "Midtown Area (Manhattan, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/arts/28civil-war1/merlin_177694752_c6045193-ba69-44ce-8bd1-34705b66c894-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "On Saturday, historians gathered at Gettysburg National Military Park and other Civil War-related sites to call out distortions and omissions of fact on monuments and markers.",
+          "copyright": "Gabriella Demczuk for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/arts/28civil-war1/28civil-war1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "On Saturday, historians gathered at Gettysburg National Military Park and other Civil War-related sites to call out distortions and omissions of fact on monuments and markers.",
+          "copyright": "Gabriella Demczuk for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/arts/28civil-war1/28civil-war1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "On Saturday, historians gathered at Gettysburg National Military Park and other Civil War-related sites to call out distortions and omissions of fact on monuments and markers.",
+          "copyright": "Gabriella Demczuk for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/arts/28civil-war1/merlin_177694752_c6045193-ba69-44ce-8bd1-34705b66c894-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "On Saturday, historians gathered at Gettysburg National Military Park and other Civil War-related sites to call out distortions and omissions of fact on monuments and markers.",
+          "copyright": "Gabriella Demczuk for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/arts/28civil-war1/merlin_177694752_c6045193-ba69-44ce-8bd1-34705b66c894-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "On Saturday, historians gathered at Gettysburg National Military Park and other Civil War-related sites to call out distortions and omissions of fact on monuments and markers.",
+          "copyright": "Gabriella Demczuk for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3n2pxrZ"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Early Works by Edward Hopper Found to be Copies of Other Artists",
+      "abstract": "A grad student\u2019s discovery \u201ccuts straight through the widely held perception of Hopper as an American original,\u201d without a debt to others, a Whitney curator said.",
+      "url": "https://www.nytimes.com/2020/09/28/arts/design/edward-hopper-copies-paintings.html",
+      "uri": "nyt://article/e1d252e0-bca9-5110-9ff3-d24ac54296db",
+      "byline": "By Blake Gopnik",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T12:38:08-04:00",
+      "created_date": "2020-09-28T12:38:08-04:00",
+      "published_date": "2020-09-28T12:38:08-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Art"
+      ],
+      "org_facet": [
+        "Whitney Museum of American Art"
+      ],
+      "per_facet": [
+        "Hopper, Edward",
+        "Louis Shadwick"
+      ],
+      "geo_facet": [
+        "London (England)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28hopper-notebook1/merlin_177461007_e9c2ab35-1bc5-4efb-8b42-737e4d39f529-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1211,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new study of Edward Hopper says that \u201cOld Ice Pond at Nyack,\u201d 1897, was the teen-age artist\u2019s copy of an earlier painting by Bruce Crane.\u00a0",
+          "copyright": "Heirs of Josephine N. Hopper / Licensed by Artists Rights Society (ARS), NY"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28hopper-notebook1/merlin_177461007_e9c2ab35-1bc5-4efb-8b42-737e4d39f529-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new study of Edward Hopper says that \u201cOld Ice Pond at Nyack,\u201d 1897, was the teen-age artist\u2019s copy of an earlier painting by Bruce Crane.\u00a0",
+          "copyright": "Heirs of Josephine N. Hopper / Licensed by Artists Rights Society (ARS), NY"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28hopper-notebook1/merlin_177461007_e9c2ab35-1bc5-4efb-8b42-737e4d39f529-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new study of Edward Hopper says that \u201cOld Ice Pond at Nyack,\u201d 1897, was the teen-age artist\u2019s copy of an earlier painting by Bruce Crane.\u00a0",
+          "copyright": "Heirs of Josephine N. Hopper / Licensed by Artists Rights Society (ARS), NY"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28hopper-notebook1/merlin_177461007_e9c2ab35-1bc5-4efb-8b42-737e4d39f529-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new study of Edward Hopper says that \u201cOld Ice Pond at Nyack,\u201d 1897, was the teen-age artist\u2019s copy of an earlier painting by Bruce Crane.\u00a0",
+          "copyright": "Heirs of Josephine N. Hopper / Licensed by Artists Rights Society (ARS), NY"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28hopper-notebook1/merlin_177461007_e9c2ab35-1bc5-4efb-8b42-737e4d39f529-articleInline.jpg",
+          "format": "Normal",
+          "height": 112,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new study of Edward Hopper says that \u201cOld Ice Pond at Nyack,\u201d 1897, was the teen-age artist\u2019s copy of an earlier painting by Bruce Crane.\u00a0",
+          "copyright": "Heirs of Josephine N. Hopper / Licensed by Artists Rights Society (ARS), NY"
+        }
+      ],
+      "short_url": "https://nyti.ms/36ev5Kc"
+    },
+    {
+      "section": "arts",
+      "subsection": "dance",
+      "title": "\u2018Beau Travail\u2019 Finds the Rhythm of Life (and Dances Away the Pain)",
+      "abstract": "Claire Denis\u2019s film about legionnaires, ends with a fearless, thrilling dance by Denis Lavant, but that\u2019s not its only choreographic beat.",
+      "url": "https://www.nytimes.com/2020/09/28/arts/dance/Beau-Travail-Denis-Lavant.html",
+      "uri": "nyt://article/f7611b64-c8b9-51b8-acf1-aad9fabce7d1",
+      "byline": "By Gia Kourlas",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T12:30:08-04:00",
+      "created_date": "2020-09-28T12:21:35-04:00",
+      "published_date": "2020-09-28T12:21:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Dancing",
+        "Beau travail (Movie)"
+      ],
+      "org_facet": [
+        "Criterion Collection"
+      ],
+      "per_facet": [
+        "Denis, Claire",
+        "Lavant, Denis",
+        "Montet, Bernardo"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28beau-dancing-6/28beau-dancing-6-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1225,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Denis Lavant from the epilogue dance in \"Beau Travail.\"",
+          "copyright": "via Criterion Collection"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28beau-dancing-6/28beau-dancing-6-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Denis Lavant from the epilogue dance in \"Beau Travail.\"",
+          "copyright": "via Criterion Collection"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28beau-dancing-6/28beau-dancing-6-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Denis Lavant from the epilogue dance in \"Beau Travail.\"",
+          "copyright": "via Criterion Collection"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28beau-dancing-6/28beau-dancing-6-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Denis Lavant from the epilogue dance in \"Beau Travail.\"",
+          "copyright": "via Criterion Collection"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28beau-dancing-6/28beau-dancing-6-articleInline.jpg",
+          "format": "Normal",
+          "height": 114,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Denis Lavant from the epilogue dance in \"Beau Travail.\"",
+          "copyright": "via Criterion Collection"
+        }
+      ],
+      "short_url": "https://nyti.ms/30hoJWv"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "7 Takeaways From Mariah Carey\u2019s Memoir",
+      "abstract": "In \u201cThe Meaning of Mariah Carey,\u201d the singer and songwriter opens up about abuse, infidelity, racism, Derek Jeter and much more.",
+      "url": "https://www.nytimes.com/2020/09/28/books/mariah-carey-memoir-highlights.html",
+      "uri": "nyt://article/b80dc863-ef00-51e4-b77b-e064ecacf96a",
+      "byline": "By Elisabeth Egan",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T13:26:09-04:00",
+      "created_date": "2020-09-28T05:00:14-04:00",
+      "published_date": "2020-09-28T05:00:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "Music",
+        "Pop and Rock Music",
+        "The Meaning of Mariah Carey (Book)",
+        "Celebrities"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Carey, Mariah"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/29Carey1/merlin_131995904_9a530213-9dc0-4c8a-9f7b-b5c00523b5b5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1592,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere is nothing more powerful than surviving a trip to hell and coming home covered in the light of restoration,\u201d writes Mariah Carey, pictured here at the Golden Globe Awards in 2018.",
+          "copyright": "Chris Pizzello/Invision, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/29Carey1/29Carey1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere is nothing more powerful than surviving a trip to hell and coming home covered in the light of restoration,\u201d writes Mariah Carey, pictured here at the Golden Globe Awards in 2018.",
+          "copyright": "Chris Pizzello/Invision, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/29Carey1/29Carey1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere is nothing more powerful than surviving a trip to hell and coming home covered in the light of restoration,\u201d writes Mariah Carey, pictured here at the Golden Globe Awards in 2018.",
+          "copyright": "Chris Pizzello/Invision, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/29Carey1/29Carey1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere is nothing more powerful than surviving a trip to hell and coming home covered in the light of restoration,\u201d writes Mariah Carey, pictured here at the Golden Globe Awards in 2018.",
+          "copyright": "Chris Pizzello/Invision, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/29Carey1/merlin_131995904_9a530213-9dc0-4c8a-9f7b-b5c00523b5b5-articleInline.jpg",
+          "format": "Normal",
+          "height": 148,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere is nothing more powerful than surviving a trip to hell and coming home covered in the light of restoration,\u201d writes Mariah Carey, pictured here at the Golden Globe Awards in 2018.",
+          "copyright": "Chris Pizzello/Invision, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kTWEwp"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "A Teenage Producer With a TikTok Hit Brings New Zealand to the World",
+      "abstract": "Jawsh 685\u2019s \u201cSavage Love\u201d became a global pop smash. Next up: graduating from high school and, hopefully, getting on a plane.",
+      "url": "https://www.nytimes.com/2020/09/28/arts/music/jawsh-685-savage-love-siren-jams.html",
+      "uri": "nyt://article/a3870cf0-6131-5dce-a26c-2eb20955e7a2",
+      "byline": "By Jon Caramanica",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T16:20:14-04:00",
+      "created_date": "2020-09-28T13:30:07-04:00",
+      "published_date": "2020-09-28T13:30:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Savage Love (Song)",
+        "Pop and Rock Music",
+        "Social Media"
+      ],
+      "org_facet": [
+        "TikTok (ByteDance)"
+      ],
+      "per_facet": [
+        "Jawsh 685"
+      ],
+      "geo_facet": [
+        "New Zealand"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/arts/23jawsh2/merlin_176429346_65aacf96-52a7-4016-b7aa-d5790d61242d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;My siren jam is somehow the most known ever now,&rdquo; Jawsh said.",
+          "copyright": "Cornell Tukiri for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/arts/23jawsh2/23jawsh2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;My siren jam is somehow the most known ever now,&rdquo; Jawsh said.",
+          "copyright": "Cornell Tukiri for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/arts/23jawsh2/23jawsh2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;My siren jam is somehow the most known ever now,&rdquo; Jawsh said.",
+          "copyright": "Cornell Tukiri for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/arts/23jawsh2/23jawsh2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;My siren jam is somehow the most known ever now,&rdquo; Jawsh said.",
+          "copyright": "Cornell Tukiri for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/arts/23jawsh2/merlin_176429346_65aacf96-52a7-4016-b7aa-d5790d61242d-articleInline.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;My siren jam is somehow the most known ever now,&rdquo; Jawsh said.",
+          "copyright": "Cornell Tukiri for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cG3sut"
+    },
+    {
+      "section": "arts",
+      "subsection": "dance",
+      "title": "Review: In This Dance, Death Is Out in the Open",
+      "abstract": "Eiko Otake\u2019s performance at Green-Wood Cemetery in Brooklyn honored the ghosts in our midst.",
+      "url": "https://www.nytimes.com/2020/09/28/arts/dance/review-eiko-otake-a-body-in-a-cemetery.html",
+      "uri": "nyt://article/50c17a34-d92c-5e53-b318-dc3e0086fb87",
+      "byline": "By Siobhan Burke",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T15:03:53-04:00",
+      "created_date": "2020-09-28T15:03:53-04:00",
+      "published_date": "2020-09-28T15:03:53-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s pick",
+      "des_facet": [
+        "Cemeteries",
+        "Dancing",
+        "A Body in a Cemetery (Dance (Non-Ballet))"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Otake, Eiko"
+      ],
+      "geo_facet": [
+        "Brooklyn (NYC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28body-cemetery-5/merlin_177600720_7cd2b8fb-df24-41cf-b246-8a2547282818-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1372,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eiko Otake in her brief and cathartic solo \u201cA Body in a Cemetery\u201d at Green-Wood Cemetery.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28body-cemetery-5/merlin_177600720_7cd2b8fb-df24-41cf-b246-8a2547282818-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eiko Otake in her brief and cathartic solo \u201cA Body in a Cemetery\u201d at Green-Wood Cemetery.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28body-cemetery-5/merlin_177600720_7cd2b8fb-df24-41cf-b246-8a2547282818-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eiko Otake in her brief and cathartic solo \u201cA Body in a Cemetery\u201d at Green-Wood Cemetery.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28body-cemetery-5/merlin_177600720_7cd2b8fb-df24-41cf-b246-8a2547282818-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eiko Otake in her brief and cathartic solo \u201cA Body in a Cemetery\u201d at Green-Wood Cemetery.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28body-cemetery-5/merlin_177600720_7cd2b8fb-df24-41cf-b246-8a2547282818-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eiko Otake in her brief and cathartic solo \u201cA Body in a Cemetery\u201d at Green-Wood Cemetery.",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cClPkd"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "\u2018Fargo\u2019 Season 4 Premiere Recap: A History of Violence",
+      "abstract": "The new season, starring Chris Rock and Jason Schwartzman, moves to the criminal underworld of Kansas City in 1950, a furnace in which American identity is forged.",
+      "url": "https://www.nytimes.com/2020/09/28/arts/television/fargo-season-4-premiere-episode-2-recap.html",
+      "uri": "nyt://article/44db3ce4-effb-5ec3-9498-6e5c0a085cf4",
+      "byline": "By Scott Tobias",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T14:59:32-04:00",
+      "created_date": "2020-09-28T00:00:05-04:00",
+      "published_date": "2020-09-28T00:00:05-04:00",
+      "material_type_facet": "",
+      "kicker": "Fargo",
+      "des_facet": [
+        "Television",
+        "Fargo (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Hawley, Noah",
+        "Rock, Chris",
+        "Schwartzman, Jason"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27fargo-recap/27fargo-recap-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A blood oath between criminals is still an oath between criminals: Tommaso Ragno, left, and Chris Rock in a scene from Season 4 of \u201cFargo.\u201d",
+          "copyright": "Elizabeth Morris/FX"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27fargo-recap/27fargo-recap-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A blood oath between criminals is still an oath between criminals: Tommaso Ragno, left, and Chris Rock in a scene from Season 4 of \u201cFargo.\u201d",
+          "copyright": "Elizabeth Morris/FX"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27fargo-recap/27fargo-recap-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A blood oath between criminals is still an oath between criminals: Tommaso Ragno, left, and Chris Rock in a scene from Season 4 of \u201cFargo.\u201d",
+          "copyright": "Elizabeth Morris/FX"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27fargo-recap/27fargo-recap-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A blood oath between criminals is still an oath between criminals: Tommaso Ragno, left, and Chris Rock in a scene from Season 4 of \u201cFargo.\u201d",
+          "copyright": "Elizabeth Morris/FX"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27fargo-recap/27fargo-recap-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A blood oath between criminals is still an oath between criminals: Tommaso Ragno, left, and Chris Rock in a scene from Season 4 of \u201cFargo.\u201d",
+          "copyright": "Elizabeth Morris/FX"
+        }
+      ],
+      "short_url": "https://nyti.ms/2GeHR0a"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "A Painter Who Puts It All on the Line",
+      "abstract": "At 81, Virginia Jaramillo is having her first solo museum exhibition, at the Menil Collection. What took so long?",
+      "url": "https://www.nytimes.com/2020/09/25/arts/design/virginia-jaramillo-menil-houston.html",
+      "uri": "nyt://article/56ab4b02-4901-5d8b-acb1-5d8e8b312f61",
+      "byline": "By Ted Loos",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T16:28:46-04:00",
+      "created_date": "2020-09-25T10:00:09-04:00",
+      "published_date": "2020-09-25T10:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Women and Girls",
+        "Hispanic-Americans"
+      ],
+      "org_facet": [
+        "Menil Collection",
+        "Hales Gallery (Manhattan, NY)"
+      ],
+      "per_facet": [
+        "Jaramillo, Virginia",
+        "Johnson, Daniel LaRue (1938-2017)"
+      ],
+      "geo_facet": [
+        "Houston (Tex)",
+        "Hampton Bays (NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27JARAMILLO-1/27JARAMILLO-1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;Quantum Entanglement,&rdquo; a new painting by Virginia Jaramillo.",
+          "copyright": "Heather Sten for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27JARAMILLO-1/27JARAMILLO-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;Quantum Entanglement,&rdquo; a new painting by Virginia Jaramillo.",
+          "copyright": "Heather Sten for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27JARAMILLO-1/27JARAMILLO-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;Quantum Entanglement,&rdquo; a new painting by Virginia Jaramillo.",
+          "copyright": "Heather Sten for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27JARAMILLO-1/27JARAMILLO-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;Quantum Entanglement,&rdquo; a new painting by Virginia Jaramillo.",
+          "copyright": "Heather Sten for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27JARAMILLO-1/27JARAMILLO-1-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;Quantum Entanglement,&rdquo; a new painting by Virginia Jaramillo.",
+          "copyright": "Heather Sten for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3306OFu"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Phil Klay\u2019s New Novel Is a Sobering Look at America\u2019s Wars",
+      "abstract": "With a big cast of characters, \u201cMissionaries\u201d tells the story of Colombian narco gangs and the government and military agencies who persecute them.",
+      "url": "https://www.nytimes.com/2020/09/28/books/review-missionaries-phil-klay.html",
+      "uri": "nyt://article/05408f17-2ad3-598f-80e5-44a456316318",
+      "byline": "By Dwight Garner",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T14:46:09-04:00",
+      "created_date": "2020-09-28T14:17:52-04:00",
+      "published_date": "2020-09-28T14:17:52-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Missionaries (Book)",
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Klay, Phil"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/28BOOKKLAY1/28BOOKKLAY1-superJumbo.png",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1430,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/28BOOKKLAY1/28BOOKKLAY1-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/28BOOKKLAY1/28BOOKKLAY1-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/28BOOKKLAY1/28BOOKKLAY1-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/28BOOKKLAY1/28BOOKKLAY1-articleInline.png",
+          "format": "Normal",
+          "height": 272,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "."
+        }
+      ],
+      "short_url": "https://nyti.ms/30gBUH9"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Will Pop Music of the Future Rely on Actual Musicians, or Avatars?",
+      "abstract": "The pandemic has sped up how digital look-alikes are reshaping stardom.",
+      "url": "https://www.nytimes.com/2020/09/28/arts/music/pop-music-avatars.html",
+      "uri": "nyt://article/cab50e8b-1936-5dc1-875b-22f194a0fe8f",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T11:43:26-04:00",
+      "created_date": "2020-09-28T11:43:26-04:00",
+      "published_date": "2020-09-28T11:43:26-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Pop and Rock Music",
+        "Rap and Hip-Hop",
+        "Social Media",
+        "Minecraft (Video Game)",
+        "Fortnite (Video Game)"
+      ],
+      "org_facet": [
+        "100 gecs (Music Group)",
+        "TikTok (ByteDance)"
+      ],
+      "per_facet": [
+        "Tesfaye, Abel (Weeknd)",
+        "Scott, Travis (1992- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28popcast/28popcast-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1225,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "via Youtube"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28popcast/28popcast-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "via Youtube"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28popcast/28popcast-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "via Youtube"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28popcast/28popcast-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "via Youtube"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28popcast/28popcast-articleInline.jpg",
+          "format": "Normal",
+          "height": 114,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "via Youtube"
+        }
+      ],
+      "short_url": "https://nyti.ms/30hz58Z"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Taylor Swift\u2019s \u2018Folklore\u2019 Returns to No. 1 for a Seventh Week",
+      "abstract": "Propelled by full-album sales, the singer and songwriter\u2019s surprise LP moved 87,000 copies, nearly double its haul from the week before.",
+      "url": "https://www.nytimes.com/2020/09/28/arts/music/taylor-swift-folklore-billboard-chart.html",
+      "uri": "nyt://article/6e1ee078-c719-58b2-823e-9bf267c4aea7",
+      "byline": "By Ben Sisario",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T11:27:01-04:00",
+      "created_date": "2020-09-28T11:27:01-04:00",
+      "published_date": "2020-09-28T11:27:01-04:00",
+      "material_type_facet": "",
+      "kicker": "The Charts",
+      "des_facet": [
+        "Pop and Rock Music",
+        "Folklore (Album)",
+        "Alicia (Album)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Swift, Taylor",
+        "Keys, Alicia"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28billboard/merlin_169905582_fb590ec5-ebde-4efd-8300-2af725784d5b-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1453,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taylor Swift\u2019s \u201cFolklore\u201d has held the top spot on the Billboard 200 for seven of its nine weeks out.",
+          "copyright": "Mario Anzuoni/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28billboard/28billboard-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taylor Swift\u2019s \u201cFolklore\u201d has held the top spot on the Billboard 200 for seven of its nine weeks out.",
+          "copyright": "Mario Anzuoni/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28billboard/28billboard-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taylor Swift\u2019s \u201cFolklore\u201d has held the top spot on the Billboard 200 for seven of its nine weeks out.",
+          "copyright": "Mario Anzuoni/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28billboard/28billboard-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taylor Swift\u2019s \u201cFolklore\u201d has held the top spot on the Billboard 200 for seven of its nine weeks out.",
+          "copyright": "Mario Anzuoni/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28billboard/merlin_169905582_fb590ec5-ebde-4efd-8300-2af725784d5b-articleInline.jpg",
+          "format": "Normal",
+          "height": 135,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taylor Swift\u2019s \u201cFolklore\u201d has held the top spot on the Billboard 200 for seven of its nine weeks out.",
+          "copyright": "Mario Anzuoni/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/33eSJEB"
+    },
+    {
+      "section": "travel",
+      "subsection": "",
+      "title": "Glimpses of the Isolated Communities Along a Remote Siberian River",
+      "abstract": "Once a vast prison ground for political exiles, the banks of the Ket River are now home to a range of solitary settlements.",
+      "url": "https://www.nytimes.com/2020/09/28/travel/russia-ket-river-siberia.html",
+      "uri": "nyt://article/cef349eb-2629-5e97-9b03-1af8624c70f0",
+      "byline": "By Emile Ducke",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T11:51:44-04:00",
+      "created_date": "2020-09-28T05:00:26-04:00",
+      "published_date": "2020-09-28T05:00:26-04:00",
+      "material_type_facet": "",
+      "kicker": "The World Through a Lens",
+      "des_facet": [
+        "Travel and Vacations",
+        "Weather",
+        "Russian Orthodox Church",
+        "Freedom of Religion",
+        "Wood and Wood Products",
+        "Railroads"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Stalin, Joseph"
+      ],
+      "geo_facet": [
+        "Siberia",
+        "Russia",
+        "USSR (Former Soviet Union)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/travel/28travel-russia-promo/28travel-russia-promo-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1638,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Emile Ducke"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/travel/28travel-russia-promo/28travel-russia-promo-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Emile Ducke"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/travel/28travel-russia-promo/28travel-russia-promo-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Emile Ducke"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/travel/28travel-russia-promo/28travel-russia-promo-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Emile Ducke"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/travel/28travel-russia-promo/28travel-russia-promo-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 152,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Emile Ducke"
+        }
+      ],
+      "short_url": "https://nyti.ms/2EHMHTm"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "What\u2019s on TV This Week: \u2018Saturday Night Live\u2019 and the First Presidential Debate",
+      "abstract": "Chris Rock hosts the return of \u201cSaturday Night Live,\u201d President Trump and Joe Biden face off in their first debate and Jimmy Stewart and Jean Arthur star in the classic Frank Capra film \u201cYou Can\u2019t Take It With You.\u201d",
+      "url": "https://www.nytimes.com/2020/09/28/arts/television/whats-on-tv-saturday-night-live-premiere.html",
+      "uri": "nyt://article/2e60a946-b19e-5065-b0aa-cf8d53ce5779",
+      "byline": "By Lauren Messman",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T16:33:14-04:00",
+      "created_date": "2020-09-28T01:00:08-04:00",
+      "published_date": "2020-09-28T01:00:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Movies",
+        "The Walking Dead (TV Program)",
+        "Saturday Night Live (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27tvcol-snl/merlin_89197588_7db18a98-2064-4528-a4be-21a488817534-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Rock hosting \u201cSaturday Night Live\u201d in 2014.",
+          "copyright": "Dana Edelson/NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27tvcol-snl/27tvcol-snl-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Rock hosting \u201cSaturday Night Live\u201d in 2014.",
+          "copyright": "Dana Edelson/NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27tvcol-snl/27tvcol-snl-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Rock hosting \u201cSaturday Night Live\u201d in 2014.",
+          "copyright": "Dana Edelson/NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27tvcol-snl/merlin_89197588_7db18a98-2064-4528-a4be-21a488817534-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Rock hosting \u201cSaturday Night Live\u201d in 2014.",
+          "copyright": "Dana Edelson/NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27tvcol-snl/merlin_89197588_7db18a98-2064-4528-a4be-21a488817534-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Rock hosting \u201cSaturday Night Live\u201d in 2014.",
+          "copyright": "Dana Edelson/NBC"
+        }
+      ],
+      "short_url": "https://nyti.ms/3mThT3n"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Two of-the-Moment Monologues and a Multitude of Karens",
+      "abstract": "One-woman plays by Tracy Thorne and Eliza Bent explore the problems of white power and privilege \u2014 and how people who say the right things aren\u2019t helping.",
+      "url": "https://www.nytimes.com/2020/09/27/theater/Karen-I-Said-jack-was-kind.html",
+      "uri": "nyt://article/803549e3-e3dd-5985-998f-4264b77c1160",
+      "byline": "By Jesse Green",
+      "item_type": "Article",
+      "updated_date": "2020-09-27T23:02:32-04:00",
+      "created_date": "2020-09-27T15:34:14-04:00",
+      "published_date": "2020-09-27T15:34:14-04:00",
+      "material_type_facet": "",
+      "kicker": "critic\u2019s Notebook",
+      "des_facet": [
+        "Theater",
+        "Jack Was Kind (Play)",
+        "Karen, I Said (Play)"
+      ],
+      "org_facet": [
+        "All for One Theater"
+      ],
+      "per_facet": [
+        "Thorne, Tracy (Actor)",
+        "Cotz, Nicholas",
+        "Bent, Eliza",
+        "Ahmadinejad, Tara"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/27karen-jack/27karen-jack-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1346,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tracy Thorne as Mary in \u201cJack Was Kind.\u201d",
+          "copyright": "Bella Lewis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/27karen-jack/27karen-jack-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tracy Thorne as Mary in \u201cJack Was Kind.\u201d",
+          "copyright": "Bella Lewis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/27karen-jack/27karen-jack-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tracy Thorne as Mary in \u201cJack Was Kind.\u201d",
+          "copyright": "Bella Lewis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/27karen-jack/27karen-jack-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tracy Thorne as Mary in \u201cJack Was Kind.\u201d",
+          "copyright": "Bella Lewis"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/27karen-jack/27karen-jack-articleInline.jpg",
+          "format": "Normal",
+          "height": 125,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tracy Thorne as Mary in \u201cJack Was Kind.\u201d",
+          "copyright": "Bella Lewis"
+        }
+      ],
+      "short_url": "https://nyti.ms/334X6Su"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "A New Zwirner Gallery With an All-Black Staff",
+      "abstract": "The megadealer David Zwirner has hired Ebony L. Haynes to run a new commercial gallery.",
+      "url": "https://www.nytimes.com/2020/09/27/arts/design/zwirner-haynes-black-gallery.html",
+      "uri": "nyt://article/338d9f14-b27f-5905-bfae-a72b6d039387",
+      "byline": "By Robin Pogrebin",
+      "item_type": "Article",
+      "updated_date": "2020-09-27T17:04:44-04:00",
+      "created_date": "2020-09-27T15:32:58-04:00",
+      "published_date": "2020-09-27T15:32:58-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Black People",
+        "Minorities",
+        "Ebsploitation (Exhibit)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Zwirner, David",
+        "Haynes, Ebony L",
+        "Rowland, Cameron (1988- )"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27zwirner-touts/27zwirner-touts-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 900,
+          "width": 1600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Elliott Jerome Brown Jr., via David Zwirner"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27zwirner-touts/27zwirner-touts-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Elliott Jerome Brown Jr., via David Zwirner"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27zwirner-touts/27zwirner-touts-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Elliott Jerome Brown Jr., via David Zwirner"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27zwirner-touts/27zwirner-touts-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Elliott Jerome Brown Jr., via David Zwirner"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27zwirner-touts/27zwirner-touts-articleInline.jpg",
+          "format": "Normal",
+          "height": 259,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Elliott Jerome Brown Jr., via David Zwirner"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cBcKrF"
+    },
+    {
+      "section": "arts",
+      "subsection": "dance",
+      "title": "Live, Urgent, but With a Slightly Recycled Feel",
+      "abstract": "The British dance company Rambert livestreams a new choreographic work by Wim Vandekeybus.",
+      "url": "https://www.nytimes.com/2020/09/27/arts/dance/review-livestream-dance-rambert.html",
+      "uri": "nyt://article/fc8aed76-7c18-51bd-920d-b6c5d1fea4b4",
+      "byline": "By Brian Seibert",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T15:14:02-04:00",
+      "created_date": "2020-09-27T13:55:20-04:00",
+      "published_date": "2020-09-27T13:55:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Dancing",
+        "Draw From Within (Dance)"
+      ],
+      "org_facet": [
+        "Rambert Dance Co"
+      ],
+      "per_facet": [
+        "Vandekeybus, Wim"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/27rambert-review-1/merlin_177536850_0158718e-d691-4c3d-8b34-8a361012b552-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salom&eacute; Pressac in Wim Vandekeybus&rsquo;s &ldquo;Draw From Within.&rdquo;",
+          "copyright": "Camilla Greenwell"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/27rambert-review-1/27rambert-review-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salom&eacute; Pressac in Wim Vandekeybus&rsquo;s &ldquo;Draw From Within.&rdquo;",
+          "copyright": "Camilla Greenwell"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/27rambert-review-1/27rambert-review-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salom&eacute; Pressac in Wim Vandekeybus&rsquo;s &ldquo;Draw From Within.&rdquo;",
+          "copyright": "Camilla Greenwell"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/27rambert-review-1/27rambert-review-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salom&eacute; Pressac in Wim Vandekeybus&rsquo;s &ldquo;Draw From Within.&rdquo;",
+          "copyright": "Camilla Greenwell"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/27rambert-review-1/merlin_177536850_0158718e-d691-4c3d-8b34-8a361012b552-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salom&eacute; Pressac in Wim Vandekeybus&rsquo;s &ldquo;Draw From Within.&rdquo;",
+          "copyright": "Camilla Greenwell"
+        }
+      ],
+      "short_url": "https://nyti.ms/3469kcz"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Tony Tanner, Who Brought \u2018Joseph\u2019 to Broadway, Dies at 88",
+      "abstract": "A versatile writer and actor as well as a director, he was also Littlechap in a film version of \u201cStop the World, I Want to Get Off.\u201d",
+      "url": "https://www.nytimes.com/2020/09/27/theater/tony-tanner-dead.html",
+      "uri": "nyt://article/985be3ca-da47-567b-a5e2-73a1e2a66dcc",
+      "byline": "By Neil Genzlinger",
+      "item_type": "Article",
+      "updated_date": "2020-09-27T12:59:13-04:00",
+      "created_date": "2020-09-27T12:59:13-04:00",
+      "published_date": "2020-09-27T12:59:13-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Theater",
+        "Actors and Actresses",
+        "Joseph and the Amazing Technicolor Dreamcoat (Play)",
+        "Stop the World - I Want to Get Off (Play)",
+        "Charlatan (Play)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Tanner, Tony (1932-2020)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/obituaries/00Tanner1/00Tanner1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1525,
+          "width": 1055,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tony Tanner as the ballet impresario\u00a0Sergei Diaghilev in the 1998 New York production of \u201cCharlatan,\u201d a one-man show he wrote.",
+          "copyright": "Bob Bayles"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/obituaries/00Tanner1/00Tanner1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tony Tanner as the ballet impresario\u00a0Sergei Diaghilev in the 1998 New York production of \u201cCharlatan,\u201d a one-man show he wrote.",
+          "copyright": "Bob Bayles"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/obituaries/00Tanner1/00Tanner1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tony Tanner as the ballet impresario\u00a0Sergei Diaghilev in the 1998 New York production of \u201cCharlatan,\u201d a one-man show he wrote.",
+          "copyright": "Bob Bayles"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/obituaries/00Tanner1/00Tanner1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tony Tanner as the ballet impresario\u00a0Sergei Diaghilev in the 1998 New York production of \u201cCharlatan,\u201d a one-man show he wrote.",
+          "copyright": "Bob Bayles"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/obituaries/00Tanner1/00Tanner1-articleInline.jpg",
+          "format": "Normal",
+          "height": 275,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tony Tanner as the ballet impresario\u00a0Sergei Diaghilev in the 1998 New York production of \u201cCharlatan,\u201d a one-man show he wrote.",
+          "copyright": "Bob Bayles"
+        }
+      ],
+      "short_url": "https://nyti.ms/3iabbSR"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "The Technical Stars Who Help Pull Off a Christopher Nolan Narrative",
+      "abstract": "In films like \u201cMemento\u201d and \u201cInception,\u201d the director\u2019s time shifts and intricate action require careful calibration by editors, stunt performers and others.",
+      "url": "https://www.nytimes.com/2020/09/27/movies/christopher-nolan-film-editing.html",
+      "uri": "nyt://article/31923508-8414-55c6-bea3-02a65c151429",
+      "byline": "By Nicolas Rapold",
+      "item_type": "Article",
+      "updated_date": "2020-09-27T22:55:30-04:00",
+      "created_date": "2020-09-27T11:00:08-04:00",
+      "published_date": "2020-09-27T11:00:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Stunts and Stuntmen",
+        "Dunkirk (Movie)",
+        "Inception (Movie)",
+        "Memento (Movie)",
+        "Tenet (Movie)",
+        "The Dark Knight (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Nolan, Christopher",
+        "Dorn, Dody",
+        "Cottle, George"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/22nolan-editing1/merlin_176257191_ffd3e7a9-872c-447a-be36-c9c0e030c3e9-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kenneth Branagh in a scene from &ldquo;Tenet,&rdquo; directed by Christopher Nolan, who prefers practical effects over digital ones.",
+          "copyright": "Melinda Sue Gordon/Warner Bros."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/22nolan-editing1/22nolan-editing1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kenneth Branagh in a scene from &ldquo;Tenet,&rdquo; directed by Christopher Nolan, who prefers practical effects over digital ones.",
+          "copyright": "Melinda Sue Gordon/Warner Bros."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/22nolan-editing1/22nolan-editing1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kenneth Branagh in a scene from &ldquo;Tenet,&rdquo; directed by Christopher Nolan, who prefers practical effects over digital ones.",
+          "copyright": "Melinda Sue Gordon/Warner Bros."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/22nolan-editing1/merlin_176257191_ffd3e7a9-872c-447a-be36-c9c0e030c3e9-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kenneth Branagh in a scene from &ldquo;Tenet,&rdquo; directed by Christopher Nolan, who prefers practical effects over digital ones.",
+          "copyright": "Melinda Sue Gordon/Warner Bros."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/22nolan-editing1/merlin_176257191_ffd3e7a9-872c-447a-be36-c9c0e030c3e9-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kenneth Branagh in a scene from &ldquo;Tenet,&rdquo; directed by Christopher Nolan, who prefers practical effects over digital ones.",
+          "copyright": "Melinda Sue Gordon/Warner Bros."
+        }
+      ],
+      "short_url": "https://nyti.ms/340L4Zu"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Panic! at the Disco\u2019s Flourishes Weren\u2019t Just Dramatic. They Were Theater.",
+      "abstract": "A look back at the band\u2019s 15-year-old debut, \u201cA Fever You Can\u2019t Sweat Out,\u201d a commercial success that simultaneously satirized and celebrated staged spectacles.",
+      "url": "https://www.nytimes.com/2020/09/27/arts/music/panic-at-the-disco-a-fever-you-cant-sweat-out.html",
+      "uri": "nyt://article/35f5d8ce-a506-5df5-b75b-469d9c28cce4",
+      "byline": "By Maya Phillips",
+      "item_type": "Article",
+      "updated_date": "2020-09-27T10:00:06-04:00",
+      "created_date": "2020-09-27T10:00:06-04:00",
+      "published_date": "2020-09-27T10:00:06-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Theater",
+        "Pop and Rock Music",
+        "Two Thousands (Decade)",
+        "A Fever You Can't Sweat Out (Album)"
+      ],
+      "org_facet": [
+        "Panic! at the Disco"
+      ],
+      "per_facet": [
+        "Urie, Brendon (1987- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27panic1/merlin_177462171_80993503-e367-4bda-8847-6be223b9f2f4-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1638,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brendon Urie of Panic! at the Disco arrived as the band\u2019s over-the-top ringleader.",
+          "copyright": "Robert E. Klein/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27panic1/27panic1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brendon Urie of Panic! at the Disco arrived as the band\u2019s over-the-top ringleader.",
+          "copyright": "Robert E. Klein/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27panic1/27panic1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brendon Urie of Panic! at the Disco arrived as the band\u2019s over-the-top ringleader.",
+          "copyright": "Robert E. Klein/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27panic1/27panic1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brendon Urie of Panic! at the Disco arrived as the band\u2019s over-the-top ringleader.",
+          "copyright": "Robert E. Klein/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27panic1/merlin_177462171_80993503-e367-4bda-8847-6be223b9f2f4-articleInline.jpg",
+          "format": "Normal",
+          "height": 152,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brendon Urie of Panic! at the Disco arrived as the band\u2019s over-the-top ringleader.",
+          "copyright": "Robert E. Klein/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cCKiWl"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "In a Book About Trauma, She Hopes to Show What Survival Looks Like",
+      "abstract": "Fariha R\u00f3is\u00edn has been working on her debut novel, \u201cLike a Bird,\u201d for 18 years, a process she says has been key to her own healing.",
+      "url": "https://www.nytimes.com/2020/09/27/books/fariha-roisin-like-a-bird.html",
+      "uri": "nyt://article/37ecee16-b908-5585-8deb-e9b1393b651f",
+      "byline": "By Priya Arora",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T13:17:13-04:00",
+      "created_date": "2020-09-27T05:00:04-04:00",
+      "published_date": "2020-09-27T05:00:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Like a Bird (Book)",
+        "Books and Literature",
+        "Writing and Writers"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Roisin, Fariha"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/books/19Roisin1/19Roisin1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Writing \u201cLike a Bird,\u201d Fariha R\u00f3is\u00edn said, \u201cI feel like I was able to synthesize something outside of me, outside of my own experience.\u201d",
+          "copyright": "Nasuna Stuart-Ulin for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/books/19Roisin1/19Roisin1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Writing \u201cLike a Bird,\u201d Fariha R\u00f3is\u00edn said, \u201cI feel like I was able to synthesize something outside of me, outside of my own experience.\u201d",
+          "copyright": "Nasuna Stuart-Ulin for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/books/19Roisin1/19Roisin1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Writing \u201cLike a Bird,\u201d Fariha R\u00f3is\u00edn said, \u201cI feel like I was able to synthesize something outside of me, outside of my own experience.\u201d",
+          "copyright": "Nasuna Stuart-Ulin for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/books/19Roisin1/19Roisin1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Writing \u201cLike a Bird,\u201d Fariha R\u00f3is\u00edn said, \u201cI feel like I was able to synthesize something outside of me, outside of my own experience.\u201d",
+          "copyright": "Nasuna Stuart-Ulin for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/books/19Roisin1/19Roisin1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Writing \u201cLike a Bird,\u201d Fariha R\u00f3is\u00edn said, \u201cI feel like I was able to synthesize something outside of me, outside of my own experience.\u201d",
+          "copyright": "Nasuna Stuart-Ulin for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Ggy4Xj"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "3 Illustrated Novels With Animal Magnetism",
+      "abstract": "With nods to \u201cWinnie the Pooh,\u201d \u201cThe Wind in the Willows,\u201d \u201cFrog and Toad\u201d and \u201cCharlotte\u2019s Web,\u201d three animal-centric novels help revive a genre.",
+      "url": "https://www.nytimes.com/2020/09/27/books/review/skunk-and-badger-amy-timberlake-jon-klassen.html",
+      "uri": "nyt://article/e70a23b2-172d-5233-8743-0068d11e6acd",
+      "byline": "By Lauren Castillo",
+      "item_type": "Article",
+      "updated_date": "2020-09-27T16:18:09-04:00",
+      "created_date": "2020-09-27T01:41:32-04:00",
+      "published_date": "2020-09-27T01:41:32-04:00",
+      "material_type_facet": "",
+      "kicker": "Children\u2019s Books",
+      "des_facet": [
+        "Books and Literature",
+        "Children and Childhood",
+        "They Threw Us Away (Book)",
+        "Skunk and Badger (Book)",
+        "Saucy (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Kraus, Daniel (1975- )",
+        "Cai, Rovina",
+        "Timberlake, Amy",
+        "Klassen, Jon",
+        "Kadohata, Cynthia",
+        "Raskin, Marianna"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/books/review/27Castillo-TopArt/27Castillo-TopArt-superJumbo.png",
+          "format": "superJumbo",
+          "height": 1444,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From \u201cSaucy.\u201d",
+          "copyright": "Marianna Raskin"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/books/review/27Castillo-TopArt/27Castillo-TopArt-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From \u201cSaucy.\u201d",
+          "copyright": "Marianna Raskin"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/books/review/27Castillo-TopArt/27Castillo-TopArt-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From \u201cSaucy.\u201d",
+          "copyright": "Marianna Raskin"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/books/review/27Castillo-TopArt/27Castillo-TopArt-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From \u201cSaucy.\u201d",
+          "copyright": "Marianna Raskin"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/books/review/27Castillo-TopArt/27Castillo-TopArt-articleInline.png",
+          "format": "Normal",
+          "height": 134,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From \u201cSaucy.\u201d",
+          "copyright": "Marianna Raskin"
+        }
+      ],
+      "short_url": "https://nyti.ms/3i2HCT3"
+    },
+    {
+      "section": "at-home",
+      "subsection": "",
+      "title": "For D.I.Y. Halloween, Make a Murder of Crows",
+      "abstract": "Spooky birds are perfect d\u00e9cor for the season and can be created from your paper and some household items.",
+      "url": "https://www.nytimes.com/2020/09/26/at-home/diy-crows-for-halloween.html",
+      "uri": "nyt://article/ab029ee2-9f23-505b-b2c5-24d15a2f56c2",
+      "byline": "By Jodi Levine",
+      "item_type": "Article",
+      "updated_date": "2020-09-26T23:24:14-04:00",
+      "created_date": "2020-09-26T23:24:14-04:00",
+      "published_date": "2020-09-26T23:24:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Newspapers",
+        "Art",
+        "Halloween",
+        "Crows (Birds)",
+        "Handicrafts"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-activityBirds1/merlin_177007404_2e0fa5d1-7c1c-4fd5-8ffb-8c3e81c992ba-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A group of homemade crows evoke the Halloween spirit.\u00a0",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-activityBirds1/27ah-activityBirds1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A group of homemade crows evoke the Halloween spirit.\u00a0",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-activityBirds1/27ah-activityBirds1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A group of homemade crows evoke the Halloween spirit.\u00a0",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-activityBirds1/27ah-activityBirds1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A group of homemade crows evoke the Halloween spirit.\u00a0",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-activityBirds1/merlin_177007404_2e0fa5d1-7c1c-4fd5-8ffb-8c3e81c992ba-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A group of homemade crows evoke the Halloween spirit.\u00a0",
+          "copyright": "Tony Cenicola/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2S1aKzN"
+    },
+    {
+      "section": "at-home",
+      "subsection": "",
+      "title": "Fill Up on Tea or a New Film by Steve McQueen",
+      "abstract": "This week, meet the singer Tashera Robertson, hit a photo show and try your hand at making snow fluff.",
+      "url": "https://www.nytimes.com/2020/09/26/at-home/things-to-do-this-week.html",
+      "uri": "nyt://article/369380d1-bca5-504e-a27e-1eb85f1ed0d7",
+      "byline": "By Adriana Balsamo and Hilary Moss",
+      "item_type": "Article",
+      "updated_date": "2020-09-26T22:43:07-04:00",
+      "created_date": "2020-09-26T22:43:07-04:00",
+      "published_date": "2020-09-26T22:43:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Art",
+        "Culture (Arts)",
+        "Dancing",
+        "Music",
+        "Museums",
+        "Content Type: Service",
+        "Exercise",
+        "Books and Literature",
+        "New York Film Festival",
+        "Photography",
+        "Pop and Rock Music",
+        "Brooklyn Book Festival"
+      ],
+      "org_facet": [
+        "Cleveland Museum of Art",
+        "Metropolitan Museum of Art",
+        "National Museum of Women in the Arts",
+        "New School",
+        "New York City Ballet",
+        "Parsons the New School for Design"
+      ],
+      "per_facet": [
+        "Copeland, Misty",
+        "Gutierrez, Martine (Photographer)",
+        "Hall Moran, Alicia",
+        "Jones, Bill T",
+        "Jones, Tayari",
+        "Sherman, Cindy",
+        "Whitehead, Colson",
+        "Roy, Arundhati",
+        "Bennett, Brit",
+        "McQueen, Steve"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-cal-labyrinth/27ah-cal-labyrinth-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 546,
+          "width": 546,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rose Wong"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-cal-labyrinth/27ah-cal-labyrinth-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rose Wong"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-cal-labyrinth/27ah-cal-labyrinth-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rose Wong"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-cal-labyrinth/27ah-cal-labyrinth-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rose Wong"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-cal-labyrinth/27ah-cal-labyrinth-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rose Wong"
+        }
+      ],
+      "short_url": "https://nyti.ms/3czJ5iz"
+    },
+    {
+      "section": "at-home",
+      "subsection": "",
+      "title": "How Ruth Bader Ginsburg Lives on In Pop Culture",
+      "abstract": "She found A-list fame late in life, appearing in movies, children\u2019s books and \u2018S.N.L.\u2019 impressions.",
+      "url": "https://www.nytimes.com/2020/09/26/at-home/ruth-bader-ginsburg-pop-culture-rbg.html",
+      "uri": "nyt://article/74cc3588-a741-5454-899e-b23b8ceb89c7",
+      "byline": "By Sara Aridi",
+      "item_type": "Article",
+      "updated_date": "2020-09-27T10:39:22-04:00",
+      "created_date": "2020-09-26T21:08:07-04:00",
+      "published_date": "2020-09-26T21:08:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Books and Literature",
+        "Taxation",
+        "Women's Rights",
+        "Culture (Arts)",
+        "Television",
+        "Celebrities",
+        "Becoming RBG: Ruth Bader Ginsburg's Journey to Justice (Book)",
+        "Late Show with Stephen Colbert (TV Program)",
+        "Notorious RBG: The Life and Times of Ruth Bader Ginsburg (Book)",
+        "Saturday Night Live (TV Program)"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Ginsburg, Ruth Bader",
+        "Carmon, Irin",
+        "Colbert, Stephen",
+        "Jones, Felicity",
+        "Knizhnik, Shana",
+        "McKinnon, Kate",
+        "West, Betsy",
+        "Cohen, Julie (Filmmaker)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-rbgPop/27ah-rbgPop-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1177,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kate McKinnon as Justice Ruth Bader Ginsburg on \u201cSaturday Night Live.\u201d",
+          "copyright": "NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-rbgPop/27ah-rbgPop-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kate McKinnon as Justice Ruth Bader Ginsburg on \u201cSaturday Night Live.\u201d",
+          "copyright": "NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-rbgPop/27ah-rbgPop-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kate McKinnon as Justice Ruth Bader Ginsburg on \u201cSaturday Night Live.\u201d",
+          "copyright": "NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-rbgPop/27ah-rbgPop-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kate McKinnon as Justice Ruth Bader Ginsburg on \u201cSaturday Night Live.\u201d",
+          "copyright": "NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-rbgPop/27ah-rbgPop-articleInline.jpg",
+          "format": "Normal",
+          "height": 109,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kate McKinnon as Justice Ruth Bader Ginsburg on \u201cSaturday Night Live.\u201d",
+          "copyright": "NBC"
+        }
+      ],
+      "short_url": "https://nyti.ms/3mW1tak"
+    },
+    {
+      "section": "at-home",
+      "subsection": "",
+      "title": "Movies and Museums Are Coming Back. Should You Go?",
+      "abstract": "Cultural attractions are reopening across the country. If you decide to see a film or take in an exhibit, know the risks and take precautions.",
+      "url": "https://www.nytimes.com/2020/09/26/at-home/movies-and-museums-return-risks.html",
+      "uri": "nyt://article/663030c3-3ddf-53b4-80fa-c55dd00ef855",
+      "byline": "By Courtney Rubin",
+      "item_type": "Article",
+      "updated_date": "2020-09-26T20:00:09-04:00",
+      "created_date": "2020-09-26T20:00:09-04:00",
+      "published_date": "2020-09-26T20:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Museums",
+        "Movies",
+        "Coronavirus Reopenings",
+        "Art",
+        "Theaters (Buildings)",
+        "Masks"
+      ],
+      "org_facet": [
+        "Phillips Collection",
+        "Art Institute of Chicago",
+        "Heard Museum"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-culturesReturn/27ah-culturesReturn-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "AMC Theaters reopened more than 100 of its movie theaters across the United States on Aug. 20 for the first time since closing in March.",
+          "copyright": "Jason Kempin/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-culturesReturn/27ah-culturesReturn-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "AMC Theaters reopened more than 100 of its movie theaters across the United States on Aug. 20 for the first time since closing in March.",
+          "copyright": "Jason Kempin/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-culturesReturn/27ah-culturesReturn-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "AMC Theaters reopened more than 100 of its movie theaters across the United States on Aug. 20 for the first time since closing in March.",
+          "copyright": "Jason Kempin/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-culturesReturn/27ah-culturesReturn-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "AMC Theaters reopened more than 100 of its movie theaters across the United States on Aug. 20 for the first time since closing in March.",
+          "copyright": "Jason Kempin/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-culturesReturn/27ah-culturesReturn-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "AMC Theaters reopened more than 100 of its movie theaters across the United States on Aug. 20 for the first time since closing in March.",
+          "copyright": "Jason Kempin/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/335Dldp"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "Michael Lonsdale, a Bond Villain and Much More, Dies at 89",
+      "abstract": "He was best known to many as Hugo Drax in \u201cMoonraker.\u201d But he also worked with a Who\u2019s Who of directors including Truffaut, Spielberg and Marguerite Duras.",
+      "url": "https://www.nytimes.com/2020/09/26/movies/michael-lonsdale-dead.html",
+      "uri": "nyt://article/c1eaaee1-861e-56a2-bff0-fe1d4a894b58",
+      "byline": "By Penelope Green",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T14:20:48-04:00",
+      "created_date": "2020-09-26T09:28:42-04:00",
+      "published_date": "2020-09-26T09:28:42-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Movies",
+        "Actors and Actresses",
+        "Moonraker (Movie)",
+        "Bond, James (Fictional Character)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Lonsdale, Michael"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/obituaries/27Lonsdale-obit1/merlin_177417888_fc5b26be-b0c1-42fe-9ba1-835a9f3c271c-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1164,
+          "width": 1704,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Lonsdale as Hugo Drax in the James Bond film &rdquo;Moonraker&rdquo; (1979). He appeared in more than 200 movies.",
+          "copyright": "United Artists"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/obituaries/27Lonsdale-obit1/25Lonsdale1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Lonsdale as Hugo Drax in the James Bond film &rdquo;Moonraker&rdquo; (1979). He appeared in more than 200 movies.",
+          "copyright": "United Artists"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/obituaries/27Lonsdale-obit1/25Lonsdale1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Lonsdale as Hugo Drax in the James Bond film &rdquo;Moonraker&rdquo; (1979). He appeared in more than 200 movies.",
+          "copyright": "United Artists"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/obituaries/27Lonsdale-obit1/25Lonsdale1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Lonsdale as Hugo Drax in the James Bond film &rdquo;Moonraker&rdquo; (1979). He appeared in more than 200 movies.",
+          "copyright": "United Artists"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/obituaries/27Lonsdale-obit1/merlin_177417888_fc5b26be-b0c1-42fe-9ba1-835a9f3c271c-articleInline.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Lonsdale as Hugo Drax in the James Bond film &rdquo;Moonraker&rdquo; (1979). He appeared in more than 200 movies.",
+          "copyright": "United Artists"
+        }
+      ],
+      "short_url": "https://nyti.ms/2G9n91K"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "Fake Guns, Fictional Battles, Real Uniforms: Inside the Immersive World of MilSim",
+      "abstract": "Veterans, gamers, history buffs and gun enthusiasts are shelling out to take part in military simulations.",
+      "url": "https://www.nytimes.com/2020/09/26/style/milsim-military-simulation.html",
+      "uri": "nyt://article/884fe12f-0047-51a6-9435-45aed4f2add0",
+      "byline": "By Christopher Lee and Chris Jones",
+      "item_type": "Article",
+      "updated_date": "2020-09-27T14:42:55-04:00",
+      "created_date": "2020-09-26T05:00:29-04:00",
+      "published_date": "2020-09-26T05:00:29-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Historical Re-enactments",
+        "United States Defense and Military Forces",
+        "Veterans"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/fashion/THELOOK-MILSIM1/merlin_169962417_27d09c4a-4036-46de-81a2-a4e600b9998f-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "MilSim West is one of several companies that host military simulation events in the United States, including in Clovis, Calif., pictured here.",
+          "copyright": "Christopher Lee for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/fashion/THELOOK-MILSIM1/THELOOK-MILSIM1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "MilSim West is one of several companies that host military simulation events in the United States, including in Clovis, Calif., pictured here.",
+          "copyright": "Christopher Lee for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/fashion/THELOOK-MILSIM1/THELOOK-MILSIM1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "MilSim West is one of several companies that host military simulation events in the United States, including in Clovis, Calif., pictured here.",
+          "copyright": "Christopher Lee for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/fashion/THELOOK-MILSIM1/merlin_169962417_27d09c4a-4036-46de-81a2-a4e600b9998f-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "MilSim West is one of several companies that host military simulation events in the United States, including in Clovis, Calif., pictured here.",
+          "copyright": "Christopher Lee for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/fashion/THELOOK-MILSIM1/merlin_169962417_27d09c4a-4036-46de-81a2-a4e600b9998f-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "MilSim West is one of several companies that host military simulation events in the United States, including in Clovis, Calif., pictured here.",
+          "copyright": "Christopher Lee for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3hZwO8k"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "This Basketball-Loving Poet Resists Categorization",
+      "abstract": "Fresh off the success of his play \u201cBarber Shop Chronicles,\u201d Inua Ellams has a new book out, \u201cThe Half God of Rainfall,\u201d about a son of Zeus who dominates on the courts.",
+      "url": "https://www.nytimes.com/2020/09/26/books/inua-ellams-half-god-of-rainfall.html",
+      "uri": "nyt://article/fb33e9d4-46e3-55c3-b48c-9d15430ba4ad",
+      "byline": "By Elizabeth A. Harris",
+      "item_type": "Article",
+      "updated_date": "2020-09-27T22:47:25-04:00",
+      "created_date": "2020-09-26T05:00:19-04:00",
+      "published_date": "2020-09-26T05:00:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "The Half God of Rainfall (Book)",
+        "Poetry and Poets",
+        "Writing and Writers"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Ellams, Inua"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/books/26Ellams1/merlin_177537582_4ce4636c-bedc-47bd-974d-a7fa38c20c3d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2040,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After he turned from art to writing, Inua Ellams said, &ldquo;Because I&rsquo;d spent so much time focused on imagery, when it came to writing poetry, I just wrote down the images in my head with words.&rdquo;",
+          "copyright": "Adama Jalloh for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/books/26Ellams1/26Ellams1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After he turned from art to writing, Inua Ellams said, &ldquo;Because I&rsquo;d spent so much time focused on imagery, when it came to writing poetry, I just wrote down the images in my head with words.&rdquo;",
+          "copyright": "Adama Jalloh for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/books/26Ellams1/26Ellams1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After he turned from art to writing, Inua Ellams said, &ldquo;Because I&rsquo;d spent so much time focused on imagery, when it came to writing poetry, I just wrote down the images in my head with words.&rdquo;",
+          "copyright": "Adama Jalloh for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/books/26Ellams1/26Ellams1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After he turned from art to writing, Inua Ellams said, &ldquo;Because I&rsquo;d spent so much time focused on imagery, when it came to writing poetry, I just wrote down the images in my head with words.&rdquo;",
+          "copyright": "Adama Jalloh for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/books/26Ellams1/merlin_177537582_4ce4636c-bedc-47bd-974d-a7fa38c20c3d-articleInline.jpg",
+          "format": "Normal",
+          "height": 191,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After he turned from art to writing, Inua Ellams said, &ldquo;Because I&rsquo;d spent so much time focused on imagery, when it came to writing poetry, I just wrote down the images in my head with words.&rdquo;",
+          "copyright": "Adama Jalloh for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3j7n11d"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Delay of Philip Guston Retrospective Divides the Art World",
+      "abstract": "\u201cPhilip Guston Now\u201d has become Philip Guston in 2024, after four museums postponed an artist\u2019s show that includes Klan imagery.",
+      "url": "https://www.nytimes.com/2020/09/25/arts/design/philip-guston-exhibition-delayed-criticism.html",
+      "uri": "nyt://article/a8bc3105-5885-5303-83d4-c21b51feb326",
+      "byline": "By Julia Jacobs and Jason Farago",
+      "item_type": "Article",
+      "updated_date": "2020-09-26T12:31:54-04:00",
+      "created_date": "2020-09-25T16:24:37-04:00",
+      "published_date": "2020-09-25T16:24:37-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Museums",
+        "Black People",
+        "Discrimination",
+        "Race and Ethnicity",
+        "Whites"
+      ],
+      "org_facet": [
+        "Ku Klux Klan",
+        "Museum of Fine Arts (Boston)",
+        "Tate Modern",
+        "Museum of Fine Arts (Houston)",
+        "National Gallery of Art"
+      ],
+      "per_facet": [
+        "Guston, Philip"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/25GUSTON1/merlin_177589173_354d3f00-f1af-480e-8e86-7fe9adcda35e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1448,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Philip Guston retrospective has been postponed until 2024. The delay was rooted in concerns about works that show hooded Klansmen.\u00a0",
+          "copyright": "The Estate of Philip Guston"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/25GUSTON1/25GUSTON1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Philip Guston retrospective has been postponed until 2024. The delay was rooted in concerns about works that show hooded Klansmen.\u00a0",
+          "copyright": "The Estate of Philip Guston"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/25GUSTON1/25GUSTON1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Philip Guston retrospective has been postponed until 2024. The delay was rooted in concerns about works that show hooded Klansmen.\u00a0",
+          "copyright": "The Estate of Philip Guston"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/25GUSTON1/merlin_177589173_354d3f00-f1af-480e-8e86-7fe9adcda35e-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Philip Guston retrospective has been postponed until 2024. The delay was rooted in concerns about works that show hooded Klansmen.\u00a0",
+          "copyright": "The Estate of Philip Guston"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/25GUSTON1/merlin_177589173_354d3f00-f1af-480e-8e86-7fe9adcda35e-articleInline.jpg",
+          "format": "Normal",
+          "height": 134,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Philip Guston retrospective has been postponed until 2024. The delay was rooted in concerns about works that show hooded Klansmen.\u00a0",
+          "copyright": "The Estate of Philip Guston"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kMfLIH"
+    },
+    {
+      "section": "t-magazine",
+      "subsection": "",
+      "title": "A Painting Depicting the Precarity of a Single Figure, and of Us All",
+      "abstract": "In this new work by Marcus Jansen, the subject must contend with two threats: rising walls and rising waters.",
+      "url": "https://www.nytimes.com/2020/09/25/t-magazine/marcus-jansen.html",
+      "uri": "nyt://article/c653c2f7-7882-535e-94e4-d570c0eaf0ad",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-27T18:54:20-04:00",
+      "created_date": "2020-09-25T14:53:05-04:00",
+      "published_date": "2020-09-25T14:53:05-04:00",
+      "material_type_facet": "",
+      "kicker": "The Artists",
+      "des_facet": [
+        "Art"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Jansen, Marcus"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/11/t-magazine/11tmag-jansen/11tmag-jansen-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1732,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marcus Jansen\u2019s \u201cBehind Walls #1.\u201d (2019).",
+          "copyright": "Marcus Jansen, \u201cBehind Walls #1,\u201d 2019, oil enamels, mixed-media collage and oil sticks on canvas. Expressive Culture LLC \u00a92020 Marcus Antonius Jansen/Artists Rights Society (ARS), New York."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/11/t-magazine/11tmag-jansen/11tmag-jansen-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marcus Jansen\u2019s \u201cBehind Walls #1.\u201d (2019).",
+          "copyright": "Marcus Jansen, \u201cBehind Walls #1,\u201d 2019, oil enamels, mixed-media collage and oil sticks on canvas. Expressive Culture LLC \u00a92020 Marcus Antonius Jansen/Artists Rights Society (ARS), New York."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/11/t-magazine/11tmag-jansen/11tmag-jansen-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marcus Jansen\u2019s \u201cBehind Walls #1.\u201d (2019).",
+          "copyright": "Marcus Jansen, \u201cBehind Walls #1,\u201d 2019, oil enamels, mixed-media collage and oil sticks on canvas. Expressive Culture LLC \u00a92020 Marcus Antonius Jansen/Artists Rights Society (ARS), New York."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/11/t-magazine/11tmag-jansen/11tmag-jansen-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marcus Jansen\u2019s \u201cBehind Walls #1.\u201d (2019).",
+          "copyright": "Marcus Jansen, \u201cBehind Walls #1,\u201d 2019, oil enamels, mixed-media collage and oil sticks on canvas. Expressive Culture LLC \u00a92020 Marcus Antonius Jansen/Artists Rights Society (ARS), New York."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/11/t-magazine/11tmag-jansen/11tmag-jansen-articleInline.jpg",
+          "format": "Normal",
+          "height": 225,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marcus Jansen\u2019s \u201cBehind Walls #1.\u201d (2019).",
+          "copyright": "Marcus Jansen, \u201cBehind Walls #1,\u201d 2019, oil enamels, mixed-media collage and oil sticks on canvas. Expressive Culture LLC \u00a92020 Marcus Antonius Jansen/Artists Rights Society (ARS), New York."
+        }
+      ],
+      "short_url": "https://nyti.ms/303YN0z"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Cleveland on \u2018Family Guy\u2019 to Be Voiced by Arif Zahir",
+      "abstract": "Zahir will succeed the actor Mike Henry in the part. Henry, who is white, in June said that he would no longer play Cleveland: \u201cPersons of color should play characters of color.\u201d",
+      "url": "https://www.nytimes.com/2020/09/25/arts/television/cleveland-family-guy-arif-zahir.html",
+      "uri": "nyt://article/770176f2-6743-549b-9111-a3d533aad898",
+      "byline": "By Dave Itzkoff",
+      "item_type": "Article",
+      "updated_date": "2020-09-27T22:52:02-04:00",
+      "created_date": "2020-09-25T14:50:28-04:00",
+      "published_date": "2020-09-25T14:50:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Family Guy (TV Program)",
+        "Actors and Actresses",
+        "Black People",
+        "Race and Ethnicity"
+      ],
+      "org_facet": [
+        "20th Television"
+      ],
+      "per_facet": [
+        "Zahir, Arif",
+        "Henry, Mike (1965- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/25family-guy-voice/merlin_173964858_ba732711-8115-405b-a418-52acac1c6be7-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1217,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Arif Zahir will take over the character in episodes for the 19th season, which has just started production.",
+          "copyright": "Fox, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/25family-guy-voice/25family-guy-voice-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Arif Zahir will take over the character in episodes for the 19th season, which has just started production.",
+          "copyright": "Fox, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/25family-guy-voice/25family-guy-voice-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Arif Zahir will take over the character in episodes for the 19th season, which has just started production.",
+          "copyright": "Fox, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/25family-guy-voice/25family-guy-voice-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Arif Zahir will take over the character in episodes for the 19th season, which has just started production.",
+          "copyright": "Fox, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/25family-guy-voice/merlin_173964858_ba732711-8115-405b-a418-52acac1c6be7-articleInline.jpg",
+          "format": "Normal",
+          "height": 113,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Arif Zahir will take over the character in episodes for the 19th season, which has just started production.",
+          "copyright": "Fox, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2G3oveP"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "\u2018Utopia\u2019 Review: Alice in Pandemic Land",
+      "abstract": "Gillian Flynn\u2019s dystopian comic-book thriller for Amazon Prime Video takes a band of nerds down a fortuitously timely rabbit hole.",
+      "url": "https://www.nytimes.com/2020/09/25/arts/television/utopia-review.html",
+      "uri": "nyt://article/81e13fcd-89e6-5a5d-b627-17489496694b",
+      "byline": "By Mike Hale",
+      "item_type": "Article",
+      "updated_date": "2020-09-26T21:27:58-04:00",
+      "created_date": "2020-09-25T13:27:02-04:00",
+      "published_date": "2020-09-25T13:27:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Utopia (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Flynn, Gillian",
+        "Lane, Sasha (1995- )",
+        "Cusack, John"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/26/arts/25utopia-1/merlin_176297532_eb7b911a-4727-4714-a0c9-c5299ce2c08a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The discovery of a lost comic book prompts an elaborate, pandemic-themed mystery in &ldquo;Utopia.&rdquo; From left, Sasha Lane, Dan Byrd, Desmin Borges, Jessica Rothe and Ashleigh LaThrop.",
+          "copyright": "Elizabeth Morris/Amazon Studios"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/26/arts/25utopia-1/25utopia-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The discovery of a lost comic book prompts an elaborate, pandemic-themed mystery in &ldquo;Utopia.&rdquo; From left, Sasha Lane, Dan Byrd, Desmin Borges, Jessica Rothe and Ashleigh LaThrop.",
+          "copyright": "Elizabeth Morris/Amazon Studios"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/26/arts/25utopia-1/25utopia-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The discovery of a lost comic book prompts an elaborate, pandemic-themed mystery in &ldquo;Utopia.&rdquo; From left, Sasha Lane, Dan Byrd, Desmin Borges, Jessica Rothe and Ashleigh LaThrop.",
+          "copyright": "Elizabeth Morris/Amazon Studios"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/26/arts/25utopia-1/merlin_176297532_eb7b911a-4727-4714-a0c9-c5299ce2c08a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The discovery of a lost comic book prompts an elaborate, pandemic-themed mystery in &ldquo;Utopia.&rdquo; From left, Sasha Lane, Dan Byrd, Desmin Borges, Jessica Rothe and Ashleigh LaThrop.",
+          "copyright": "Elizabeth Morris/Amazon Studios"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/26/arts/25utopia-1/merlin_176297532_eb7b911a-4727-4714-a0c9-c5299ce2c08a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The discovery of a lost comic book prompts an elaborate, pandemic-themed mystery in &ldquo;Utopia.&rdquo; From left, Sasha Lane, Dan Byrd, Desmin Borges, Jessica Rothe and Ashleigh LaThrop.",
+          "copyright": "Elizabeth Morris/Amazon Studios"
+        }
+      ],
+      "short_url": "https://nyti.ms/345FJAm"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Sam McBratney Dies at 77; Wrote \u2018Guess How Much I Love You\u2019",
+      "abstract": "His bedtime story of a hare and his son one-upping each other in declaring their love became a children\u2019s classic, translated into 57 languages.",
+      "url": "https://www.nytimes.com/2020/09/25/books/sam-mcbratney-dead.html",
+      "uri": "nyt://article/99a32d8f-d3d2-506e-b96b-8318e186c8e5",
+      "byline": "By Sam Roberts",
+      "item_type": "Article",
+      "updated_date": "2020-09-26T13:03:56-04:00",
+      "created_date": "2020-09-25T13:18:25-04:00",
+      "published_date": "2020-09-25T13:18:25-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Guess How Much I Love You (Book)",
+        "Writing and Writers",
+        "Books and Literature",
+        "Children and Childhood"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "McBratney, Sam (1943-2020)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/26/obituaries/24Mcbratney3/merlin_177381708_22fd375f-8d26-47a7-a97e-2e7f9412529a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1374,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sam McBratney in front of artwork from his book &ldquo;Guess How Much I Love You,&rdquo; which has sold more than 50 million copies since 1994.",
+          "copyright": "Walker Books Ltd., via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/26/obituaries/24Mcbratney3/merlin_177381708_22fd375f-8d26-47a7-a97e-2e7f9412529a-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sam McBratney in front of artwork from his book &ldquo;Guess How Much I Love You,&rdquo; which has sold more than 50 million copies since 1994.",
+          "copyright": "Walker Books Ltd., via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/26/obituaries/24Mcbratney3/merlin_177381708_22fd375f-8d26-47a7-a97e-2e7f9412529a-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sam McBratney in front of artwork from his book &ldquo;Guess How Much I Love You,&rdquo; which has sold more than 50 million copies since 1994.",
+          "copyright": "Walker Books Ltd., via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/26/obituaries/24Mcbratney3/merlin_177381708_22fd375f-8d26-47a7-a97e-2e7f9412529a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sam McBratney in front of artwork from his book &ldquo;Guess How Much I Love You,&rdquo; which has sold more than 50 million copies since 1994.",
+          "copyright": "Walker Books Ltd., via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/26/obituaries/24Mcbratney3/merlin_177381708_22fd375f-8d26-47a7-a97e-2e7f9412529a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sam McBratney in front of artwork from his book &ldquo;Guess How Much I Love You,&rdquo; which has sold more than 50 million copies since 1994.",
+          "copyright": "Walker Books Ltd., via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3mULlWo"
+    }
+  ]
+}
