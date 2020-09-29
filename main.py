@@ -4,9 +4,11 @@ import nltk
 import main_functions
 from nltk import sent_tokenize
 from nltk import word_tokenize
-from nltk.probability import  FreqDist
+from nltk.probability import FreqDist
 from nltk.corpus import stopwords
 from pprint import pprint
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
 
 #nltk.download("punkt")
 #nltk.download("stopwords")
@@ -27,7 +29,7 @@ url = "https://api.nytimes.com/svc/topstories/v2/arts.json?api-key=" + api_key
 
 my_articles = main_functions.read_from_file("JSON_Files/response.json")
 
-str1=""
+str1 = ""
 
 for i in my_articles["results"]:
     str1 = str1 + i["abstract"]
@@ -70,3 +72,12 @@ pprint(len(clean_words))
 fdist3 = FreqDist(clean_words)
 
 pprint(fdist3.most_common(10))
+
+wordcloud = WordCloud().generate(str1)
+
+
+plt.figure(figsize=(12,12))
+plt.imshow(wordcloud)
+
+plt.axis("off")
+plt.show()
