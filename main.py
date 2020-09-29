@@ -18,13 +18,12 @@ api_key_dict = main_functions.read_from_file("JSON_Files/api_key.json")
 
 api_key = api_key_dict["my_key"]
 
-url = "https://api.nytimes.com/svc/topstories/v2/arts.json?api-key=" + api_key
+url = "https://api.nytimes.com/svc/topstories/v2/health.json?api-key=" + api_key
 
 
-#print(url)
-#response = requests.get(url).json()
 
-#main_functions.save_to_file(response,"JSON_Files/response.json")
+response = requests.get(url).json()
+main_functions.save_to_file(response,"JSON_Files/response.json")
 
 
 my_articles = main_functions.read_from_file("JSON_Files/response.json")
